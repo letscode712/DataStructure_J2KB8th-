@@ -1,8 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include <stdlib.h>
-#include <malloc.h>
-#include <string.h>
 
 #define SIZE 5
 //3.7_n개의 정수 총합(배열을 함수의 매개변수로 사용)
