@@ -32,12 +32,13 @@ int fact(int n)
 		result *= i;
 	return result;
 }
+//2.1_팩토리얼 순환
 int main(void)
 {
 	int n;
 	print("Enter a number: ");
 	scanf("%d", &n);
-
+	
 	print("%d ! = %d\n", n, fact(n));
 }
 */
